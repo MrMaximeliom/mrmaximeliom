@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmaximeliom" alt="mrmaximeliom" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs,React,Flutter**
+- 🌱 I’m currently learning **NodeJs,React,Flutter,.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrMaximeliom](https://github.com/MrMaximeliom)
 
