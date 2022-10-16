@@ -7,7 +7,12 @@
 
 - 🌱 I’m currently learning **NodeJs,React,Flutter,.NET Core**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrMaximeliom](https://github.com/MrMaximeliom)
+- Some of  my projects:
+- https://student-shadow.herokuapp.com/swagger/index.html
+- https://ouloug.herokuapp.com/login/
+- https://sudan-community.herokuapp.com/
+- https://uniseal-api.herokuapp.com/
+
 
 - 💬 Ask me about **Django Framework,Django Rest Framework,Python**
 
