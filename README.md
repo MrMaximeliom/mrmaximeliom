@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hysoca7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YxkwZHmKsDT77qFCPvhQzh7qEfTEvb5-/view?usp=sharing](https://drive.google.com/file/d/1YxkwZHmKsDT77qFCPvhQzh7qEfTEvb5-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y7Nkf3cwS1oix8BpqWyn3LX2ffrenGpx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
