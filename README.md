@@ -5,18 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmaximeliom" alt="mrmaximeliom" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs,React,Flutter,.NET Core**
-
-- Some of  my projects:
-- https://student-shadow.herokuapp.com/swagger/index.html
-- https://ouloug.herokuapp.com/login/
-- https://sudan-community.herokuapp.com/
-- https://uniseal-api.herokuapp.com/
+- 🌱 I’m a Django Developer who is falling in love with Python**
 
 
 - 💬 Ask me about **Django Framework,Django Rest Framework,Python**
 
-- 📫 How to reach me **hysoca7@gmail.com**
+- 📫 How to reach me **moayed.abdulhafiez@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y7Nkf3cwS1oix8BpqWyn3LX2ffrenGpx/view?usp=sharing)
 
