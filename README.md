@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmaximeliom" alt="mrmaximeliom" /></a> </p>
 
-- 🌱 I’m a Django Developer who is falling in love with Python**
+- 🌱 I’m a Full Stack Developer who's falling in love with Web Development**
 
 
-- 💬 Ask me about **Django Framework,Django Rest Framework,Python**
+- 💬 Ask me about **Django Framework,Django Rest Framework,Python,.NET Core, C#, NextJS**
 
 - 📫 How to reach me **moayed.abdulhafiez@gmail.com**
 
